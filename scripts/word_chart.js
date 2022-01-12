@@ -128,6 +128,7 @@ d3.json("data/all_char_word_counts.json", function(json_data) {
 
 
 
+//NOW COMBINE the different tutorials
 
 // set the dimensions and margins of the graph
 var margin = {top: 30, right: 30, bottom: 70, left: 120},
