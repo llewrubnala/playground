@@ -242,20 +242,12 @@ function update(data) {
 
 
 
+
+
 // Initialize the plot with the first dataset
+update(data_1);
+console.log("trying");
 update(data_all);
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
