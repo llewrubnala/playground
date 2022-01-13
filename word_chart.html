@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>GoT Testing</title>
+
+	<link href="styles/style.css" rel="stylesheet">
+
+
+ 	<script src="https://d3js.org/d3.v4.js"></script>
+
+
+</head>
+<body>
+
+
+	<br><br><br><br>
+
+	<p>Who is the most important Game of Thrones character?</p>
+	<p>Words spoken per season.  <div id="which_season"></div></p>
+	<button onclick="update(data_all)">All Seasons</button><button onclick="update(data_1)">Season 1</button><button onclick="update(data_2)">Season 2</button><button onclick="update(data_3)">Season 3</button><button onclick="update(data_4)">Season 4</button><button onclick="update(data_5)">Season 5</button><button onclick="update(data_6)">Season 6</button><button onclick="update(data_7)">Season 7</button><button onclick="update(data_8)">Season 8</button>
+
+	<div id="word_char_chart"></div>
+	<p>Data adopted from Jeffrey Lancaster's <a href="https://github.com/jeffreylancaster/game-of-thrones/tree/master/data">GitHub repository</a> of Game of Thrones data.</p>
+	<p>Plot generation adopted from multiple D3-Graph-Gallery examples <a href="https://www.d3-graph-gallery.com/graph/barplot_button_data_hard.html">here </a> and <a href="https://www.d3-graph-gallery.com/graph/barplot_horizontal.html">here </a></p>
+
+
+
+	
+	<script src="scripts/word_chart.js"></script>
+	
+</body>
+</html>

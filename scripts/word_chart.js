@@ -173,7 +173,7 @@ var yAxis = svg.append("g")
 
 
 // A function that create / update the plot for a given variable:
-function update(data) {
+function update(data, season) {
 
 
 	// // Update the X axis
@@ -246,8 +246,7 @@ function update(data) {
 
 
 // Initialize the plot with the first dataset
-update(data_1);
-console.log("trying");
+console.log("make initial data call to generate");
 update(data_all);
 
 

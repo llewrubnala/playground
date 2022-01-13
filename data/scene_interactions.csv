@@ -1,0 +1,297 @@
+char_1,char_2,value
+Jon Snow,Robb Stark,6
+Jon Snow,Sansa Stark,64
+Jon Snow,Arya Stark,22
+Jon Snow,Theon Greyjoy,26
+Robb Stark,Jon Snow,6
+Robb Stark,Sansa Stark,2
+Robb Stark,Arya Stark,3
+Robb Stark,Theon Greyjoy,21
+Sansa Stark,Jon Snow,64
+Sansa Stark,Robb Stark,2
+Sansa Stark,Arya Stark,42
+Sansa Stark,Theon Greyjoy,27
+Arya Stark,Jon Snow,22
+Arya Stark,Robb Stark,3
+Arya Stark,Sansa Stark,42
+Arya Stark,Theon Greyjoy,5
+Theon Greyjoy,Jon Snow,26
+Theon Greyjoy,Robb Stark,21
+Theon Greyjoy,Sansa Stark,27
+Theon Greyjoy,Arya Stark,5
+Cersei Lannister,Jaime Lannister,81
+Jaime Lannister,Cersei Lannister,81
+Arya Stark,Sandor Clegane,67
+Arya Stark,Cersei Lannister,5
+Arya Stark,Jaime Lannister,8
+Sandor Clegane,Arya Stark,67
+Sandor Clegane,Sansa Stark,31
+Sandor Clegane,Theon Greyjoy,14
+Sandor Clegane,Jon Snow,42
+Sandor Clegane,Cersei Lannister,16
+Sandor Clegane,Jaime Lannister,9
+Sansa Stark,Sandor Clegane,31
+Sansa Stark,Cersei Lannister,48
+Sansa Stark,Jaime Lannister,20
+Theon Greyjoy,Sandor Clegane,14
+Theon Greyjoy,Cersei Lannister,9
+Theon Greyjoy,Jaime Lannister,12
+Jon Snow,Sandor Clegane,42
+Jon Snow,Cersei Lannister,8
+Jon Snow,Jaime Lannister,22
+Cersei Lannister,Arya Stark,5
+Cersei Lannister,Sandor Clegane,16
+Cersei Lannister,Sansa Stark,48
+Cersei Lannister,Theon Greyjoy,9
+Cersei Lannister,Jon Snow,8
+Jaime Lannister,Arya Stark,8
+Jaime Lannister,Sandor Clegane,9
+Jaime Lannister,Sansa Stark,20
+Jaime Lannister,Theon Greyjoy,12
+Jaime Lannister,Jon Snow,22
+Jaime Lannister,Tyrion Lannister,74
+Tyrion Lannister,Jaime Lannister,74
+Jon Snow,Tyrion Lannister,82
+Tyrion Lannister,Jon Snow,82
+Robb Stark,Cersei Lannister,1
+Robb Stark,Jaime Lannister,4
+Cersei Lannister,Robb Stark,1
+Jaime Lannister,Robb Stark,4
+Daenerys Targaryen,Jorah Mormont,148
+Jorah Mormont,Daenerys Targaryen,148
+Tyrion Lannister,Sandor Clegane,31
+Tyrion Lannister,Theon Greyjoy,24
+Tyrion Lannister,Robb Stark,2
+Sandor Clegane,Tyrion Lannister,31
+Sandor Clegane,Robb Stark,2
+Theon Greyjoy,Tyrion Lannister,24
+Robb Stark,Tyrion Lannister,2
+Robb Stark,Sandor Clegane,2
+Tyrion Lannister,Cersei Lannister,82
+Cersei Lannister,Tyrion Lannister,82
+Lord Varys,Petyr Baelish,19
+Petyr Baelish,Lord Varys,19
+Jon Snow,Samwell Tarly,80
+Samwell Tarly,Jon Snow,80
+Cersei Lannister,Petyr Baelish,14
+Sansa Stark,Petyr Baelish,58
+Petyr Baelish,Cersei Lannister,14
+Petyr Baelish,Sansa Stark,58
+Petyr Baelish,Arya Stark,11
+Petyr Baelish,Sandor Clegane,5
+Arya Stark,Petyr Baelish,11
+Sandor Clegane,Petyr Baelish,5
+Tyrion Lannister,Bronn,59
+Bronn,Tyrion Lannister,59
+Arya Stark,Lord Varys,10
+Lord Varys,Arya Stark,10
+Jaime Lannister,Petyr Baelish,1
+Petyr Baelish,Jaime Lannister,1
+Jaime Lannister,Tywin Lannister,30
+Tywin Lannister,Jaime Lannister,30
+Lord Varys,Cersei Lannister,40
+Lord Varys,Sandor Clegane,19
+Cersei Lannister,Lord Varys,40
+Sandor Clegane,Lord Varys,19
+Lord Varys,Sansa Stark,33
+Sansa Stark,Lord Varys,33
+Tyrion Lannister,Tywin Lannister,47
+Tywin Lannister,Tyrion Lannister,47
+Tywin Lannister,Bronn,3
+Bronn,Tywin Lannister,3
+Sansa Stark,Tyrion Lannister,80
+Sansa Stark,Bronn,3
+Sandor Clegane,Bronn,7
+Tyrion Lannister,Sansa Stark,80
+Bronn,Sansa Stark,3
+Bronn,Sandor Clegane,7
+Lord Varys,Tyrion Lannister,141
+Petyr Baelish,Tyrion Lannister,8
+Tyrion Lannister,Lord Varys,141
+Tyrion Lannister,Petyr Baelish,8
+Davos Seaworth,Stannis Baratheon,35
+Stannis Baratheon,Davos Seaworth,35
+Petyr Baelish,Bronn,1
+Bronn,Petyr Baelish,1
+Brienne of Tarth,Petyr Baelish,11
+Petyr Baelish,Brienne of Tarth,11
+Brienne of Tarth,Stannis Baratheon,2
+Brienne of Tarth,Davos Seaworth,42
+Stannis Baratheon,Brienne of Tarth,2
+Davos Seaworth,Brienne of Tarth,42
+Tywin Lannister,Arya Stark,9
+Arya Stark,Tywin Lannister,9
+Tywin Lannister,Petyr Baelish,3
+Petyr Baelish,Tywin Lannister,3
+Robb Stark,Brienne of Tarth,2
+Brienne of Tarth,Robb Stark,2
+Jaime Lannister,Brienne of Tarth,91
+Brienne of Tarth,Jaime Lannister,91
+Bronn,Lord Varys,5
+Lord Varys,Bronn,5
+Cersei Lannister,Tywin Lannister,57
+Tywin Lannister,Cersei Lannister,57
+Tywin Lannister,Sansa Stark,16
+Tywin Lannister,Lord Varys,15
+Sansa Stark,Tywin Lannister,16
+Lord Varys,Tywin Lannister,15
+Bronn,Cersei Lannister,2
+Cersei Lannister,Bronn,2
+Sansa Stark,Olenna Tyrell,20
+Olenna Tyrell,Sansa Stark,20
+Cersei Lannister,Olenna Tyrell,25
+Olenna Tyrell,Cersei Lannister,25
+Olenna Tyrell,Lord Varys,8
+Lord Varys,Olenna Tyrell,8
+Tyrion Lannister,Olenna Tyrell,20
+Olenna Tyrell,Tyrion Lannister,20
+Tywin Lannister,Olenna Tyrell,16
+Olenna Tyrell,Tywin Lannister,16
+Bronn,Olenna Tyrell,1
+Olenna Tyrell,Bronn,1
+Olenna Tyrell,Brienne of Tarth,2
+Brienne of Tarth,Olenna Tyrell,2
+Sansa Stark,Brienne of Tarth,47
+Brienne of Tarth,Sansa Stark,47
+Bronn,Jaime Lannister,50
+Jaime Lannister,Bronn,50
+Lord Varys,Jaime Lannister,26
+Jaime Lannister,Lord Varys,26
+Jaime Lannister,Olenna Tyrell,10
+Olenna Tyrell,Jaime Lannister,10
+Brienne of Tarth,Cersei Lannister,10
+Brienne of Tarth,Tyrion Lannister,45
+Cersei Lannister,Brienne of Tarth,10
+Tyrion Lannister,Brienne of Tarth,45
+Brienne of Tarth,Tywin Lannister,1
+Tywin Lannister,Brienne of Tarth,1
+Brienne of Tarth,Lord Varys,29
+Lord Varys,Brienne of Tarth,29
+Brienne of Tarth,Bronn,7
+Bronn,Brienne of Tarth,7
+Jon Snow,Stannis Baratheon,17
+Jon Snow,Davos Seaworth,136
+Stannis Baratheon,Jon Snow,17
+Davos Seaworth,Jon Snow,136
+Stannis Baratheon,Samwell Tarly,8
+Davos Seaworth,Samwell Tarly,18
+Samwell Tarly,Stannis Baratheon,8
+Samwell Tarly,Davos Seaworth,18
+Brienne of Tarth,Arya Stark,16
+Arya Stark,Brienne of Tarth,16
+Brienne of Tarth,Sandor Clegane,17
+Sandor Clegane,Brienne of Tarth,17
+Theon Greyjoy,Petyr Baelish,1
+Petyr Baelish,Theon Greyjoy,1
+Tyrion Lannister,Jorah Mormont,57
+Lord Varys,Jorah Mormont,26
+Jorah Mormont,Tyrion Lannister,57
+Jorah Mormont,Lord Varys,26
+Olenna Tyrell,Petyr Baelish,1
+Petyr Baelish,Olenna Tyrell,1
+Daenerys Targaryen,Tyrion Lannister,116
+Tyrion Lannister,Daenerys Targaryen,116
+Theon Greyjoy,Brienne of Tarth,19
+Brienne of Tarth,Theon Greyjoy,19
+Jon Snow,Brienne of Tarth,41
+Brienne of Tarth,Jon Snow,41
+Sansa Stark,Davos Seaworth,34
+Davos Seaworth,Sansa Stark,34
+Theon Greyjoy,Daenerys Targaryen,13
+Daenerys Targaryen,Theon Greyjoy,13
+Petyr Baelish,Jon Snow,7
+Jon Snow,Petyr Baelish,7
+Petyr Baelish,Davos Seaworth,5
+Davos Seaworth,Petyr Baelish,5
+Daenerys Targaryen,Lord Varys,64
+Lord Varys,Daenerys Targaryen,64
+Samwell Tarly,Jorah Mormont,16
+Jorah Mormont,Samwell Tarly,16
+Daenerys Targaryen,Olenna Tyrell,2
+Theon Greyjoy,Lord Varys,19
+Theon Greyjoy,Olenna Tyrell,1
+Lord Varys,Theon Greyjoy,19
+Olenna Tyrell,Daenerys Targaryen,2
+Olenna Tyrell,Theon Greyjoy,1
+Davos Seaworth,Tyrion Lannister,70
+Tyrion Lannister,Davos Seaworth,70
+Daenerys Targaryen,Jon Snow,119
+Daenerys Targaryen,Davos Seaworth,39
+Jon Snow,Daenerys Targaryen,119
+Davos Seaworth,Daenerys Targaryen,39
+Jon Snow,Lord Varys,49
+Davos Seaworth,Lord Varys,43
+Lord Varys,Jon Snow,49
+Lord Varys,Davos Seaworth,43
+Theon Greyjoy,Davos Seaworth,19
+Davos Seaworth,Theon Greyjoy,19
+Bronn,Daenerys Targaryen,8
+Jaime Lannister,Daenerys Targaryen,26
+Daenerys Targaryen,Bronn,8
+Daenerys Targaryen,Jaime Lannister,26
+Jon Snow,Jorah Mormont,56
+Jorah Mormont,Jon Snow,56
+Jorah Mormont,Davos Seaworth,30
+Davos Seaworth,Jorah Mormont,30
+Davos Seaworth,Sandor Clegane,16
+Jorah Mormont,Sandor Clegane,44
+Sandor Clegane,Davos Seaworth,16
+Sandor Clegane,Jorah Mormont,44
+Sandor Clegane,Daenerys Targaryen,16
+Daenerys Targaryen,Sandor Clegane,16
+Jorah Mormont,Theon Greyjoy,17
+Theon Greyjoy,Jorah Mormont,17
+Jon Snow,Bronn,3
+Davos Seaworth,Bronn,7
+Jorah Mormont,Bronn,3
+Jorah Mormont,Brienne of Tarth,25
+Theon Greyjoy,Bronn,3
+Bronn,Jon Snow,3
+Bronn,Davos Seaworth,7
+Bronn,Jorah Mormont,3
+Bronn,Theon Greyjoy,3
+Brienne of Tarth,Jorah Mormont,25
+Davos Seaworth,Cersei Lannister,7
+Davos Seaworth,Jaime Lannister,22
+Jorah Mormont,Cersei Lannister,7
+Jorah Mormont,Jaime Lannister,17
+Cersei Lannister,Davos Seaworth,7
+Cersei Lannister,Jorah Mormont,7
+Jaime Lannister,Davos Seaworth,22
+Jaime Lannister,Jorah Mormont,17
+Brienne of Tarth,Daenerys Targaryen,26
+Cersei Lannister,Daenerys Targaryen,16
+Daenerys Targaryen,Brienne of Tarth,26
+Daenerys Targaryen,Cersei Lannister,16
+Daenerys Targaryen,Arya Stark,15
+Arya Stark,Daenerys Targaryen,15
+Daenerys Targaryen,Sansa Stark,27
+Sansa Stark,Daenerys Targaryen,27
+Sansa Stark,Jorah Mormont,7
+Jorah Mormont,Sansa Stark,7
+Daenerys Targaryen,Samwell Tarly,11
+Samwell Tarly,Daenerys Targaryen,11
+Theon Greyjoy,Samwell Tarly,2
+Arya Stark,Tyrion Lannister,11
+Arya Stark,Davos Seaworth,14
+Arya Stark,Jorah Mormont,2
+Arya Stark,Samwell Tarly,10
+Jaime Lannister,Samwell Tarly,17
+Sansa Stark,Samwell Tarly,10
+Tyrion Lannister,Arya Stark,11
+Tyrion Lannister,Samwell Tarly,15
+Davos Seaworth,Arya Stark,14
+Brienne of Tarth,Samwell Tarly,21
+Lord Varys,Samwell Tarly,8
+Jorah Mormont,Arya Stark,2
+Samwell Tarly,Theon Greyjoy,2
+Samwell Tarly,Arya Stark,10
+Samwell Tarly,Jaime Lannister,17
+Samwell Tarly,Sansa Stark,10
+Samwell Tarly,Tyrion Lannister,15
+Samwell Tarly,Brienne of Tarth,21
+Samwell Tarly,Lord Varys,8
+Samwell Tarly,Sandor Clegane,5
+Sandor Clegane,Samwell Tarly,5
+Bronn,Samwell Tarly,4
+Samwell Tarly,Bronn,4
