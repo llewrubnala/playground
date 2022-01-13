@@ -250,4 +250,3 @@ console.log("make initial data call to generate");
 update(data_all);
 
 
-

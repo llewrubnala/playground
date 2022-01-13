@@ -119,6 +119,7 @@ for i in range(len(all_char_list)):
     #search through each episode to tally up
     for j in range(len(episode_list)):
     
+        #to do, look at case switching to minimize code ... works fine though
         if episode_list[j][1] == '1': 
             temp_epi_tot[0] += int(all_char_list_info[i]['episode_words'][j])
             
