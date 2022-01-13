@@ -32,7 +32,7 @@ svg.append("g")
 	.style("font-size", 15)
 	.attr("transform", "translate(0," + height + ")")
 	.call(d3.axisBottom(x).tickSize(0))
-	.attr("transform", "rotate(-65)")
+	//.attr("transform", "rotate(-65)")
 	.select(".domain").remove()
 
 // Build Y scales and axis:
