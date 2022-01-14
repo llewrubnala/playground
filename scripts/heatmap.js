@@ -23,17 +23,28 @@ var svg = d3.select("#heatmap_chart")
 var myGroups = ['Arya Stark','Brienne of Tarth','Bronn','Cersei Lannister','Daenerys Targaryen','Davos Seaworth','Jaime Lannister','Jon Snow','Jorah Mormont','Lord Varys','Olenna Tyrell','Petyr Baelish','Robb Stark','Samwell Tarly','Sandor Clegane','Sansa Stark','Stannis Baratheon','Theon Greyjoy','Tyrion Lannister','Tywin Lannister']
 var myVars = ['Arya Stark','Brienne of Tarth','Bronn','Cersei Lannister','Daenerys Targaryen','Davos Seaworth','Jaime Lannister','Jon Snow','Jorah Mormont','Lord Varys','Olenna Tyrell','Petyr Baelish','Robb Stark','Samwell Tarly','Sandor Clegane','Sansa Stark','Stannis Baratheon','Theon Greyjoy','Tyrion Lannister','Tywin Lannister']
 
+// // Build X scales and axis:
+// var x = d3.scaleBand()
+// 	.range([ 0, width ])
+// 	.domain(myGroups)
+// 	.padding(0.01);
+// svg.append("g")
+// 	.style("font-size", 15)
+// 	.attr("transform", "translate(0," + height + ")")
+// 	.call(d3.axisBottom(x).tickSize(0))
+// 	//.attr("transform", "rotate(-65)")
+// 	.select(".domain").remove()
+
 // Build X scales and axis:
 var x = d3.scaleBand()
-	.range([ 0, width ])
-	.domain(myGroups)
-	.padding(0.01);
+    .range([0, width])
+    .domain(myGroups)
+    .padding(0.01);
 svg.append("g")
-	.style("font-size", 15)
-	.attr("transform", "translate(0," + height + ")")
-	.call(d3.axisBottom(x).tickSize(0))
-	//.attr("transform", "rotate(-65)")
-	.select(".domain").remove()
+    .style("font-size", 15)
+    .call(d3.axisRight(x).tickSize(0))
+    .attr("transform", function(d, i) { return "translate(0,680)" + "rotate(-90)"})
+    .select(".domain").remove()
 
 // Build Y scales and axis:
 var y = d3.scaleBand()
@@ -48,7 +59,7 @@ svg.append("g")
 // Build color scale
 var myColor = d3.scaleLinear()
 	.range(["white", "#69b3a2"])
-	.domain([1,75])
+	.domain([1,50])
 
 //Read the data
 d3.csv("data/scene_interactions.csv", function(data) {
@@ -102,7 +113,7 @@ d3.csv("data/scene_interactions.csv", function(data) {
 			.html("")
 		d3.select(this)
 			.style("stroke", "none")
-			.style("opacity", 0.8)
+			//.style("opacity", 0.8)
 	}
 
 	// add the squares
